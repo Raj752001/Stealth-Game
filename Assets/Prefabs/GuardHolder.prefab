@@ -293,7 +293,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pathHolder: {fileID: 3440702731621062365}
-  speed: 7
+  speed: 10
   waitTime: 0.5
   trunSpeed: 90
   timeToSpot: 0.5
